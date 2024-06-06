@@ -5,6 +5,7 @@
 - 👯 I'm looking to collaborate on a multitude of projects spanning a wide range of Computer Science topics like: AI-ML, Cloud Computing, Software Engineering, Data Science, etc.
 - 📫 How to Reach Me: jwil854@lsu.edu
 - 🏀 Fun fact: I enjoy playing basketball in my free time
+- 🐯 Geaux Tigers!!
 <!--
 **BlackMoonCoder/BlackMoonCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
