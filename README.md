@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I'm currently attending NACME's Apple-Sponsored AI-ML Intensive hosted at the University of Southern California
-- 📱 Currently an Associate Information Security Analyst at TraceSecurity LLC located in Baton Rouge, LA
-- 👯 I'm looking to collaborate on a multitude of projects spanning a wide range of Computer Science topics like: AI-ML, Cloud Computing, Software Engineering, Data Science, etc.
+- 🔭 I previously attended NACME's Apple-Sponsored AI-ML Intensive hosted at the University of Southern California
+- 📱 Currently an Security Operations Center Analyst at LSU located in Baton Rouge, LA
+- 👯 I'm looking to collaborate on a multitude of projects spanning a wide range of Computer Science topics like: AI-ML, CyberSecurity, Software Engineering, Data Science, etc.
 - 📫 How to Reach Me: jwil854@lsu.edu
 - 🏀 Fun fact: I enjoy playing basketball in my free time
 - 🐯 Geaux Tigers!!
