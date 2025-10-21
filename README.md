@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I previously attended NACME's Apple-Sponsored AI-ML Intensive hosted at the University of Southern California
-- 📱 Currently a Software Development Analyst Intern at Citi in Irving, TX and a Security Operations Center Analyst at LSU located in Baton Rouge, LA
+- 📱 Currently a Security Operations Center Analyst II at LSU located in Baton Rouge, LA
+- 🔭 I previously worked as a Software Development Analyst Intern at Citi in Irving, TX and attended NACME's Apple-Sponsored AI-ML Intensive hosted at the University of Southern California
 - 👯 I'm looking to collaborate on a multitude of projects spanning a wide range of Computer Science topics like: AI-ML, CyberSecurity, Software Engineering, Data Science, etc.
 - 📫 How to Reach Me: jwil854@lsu.edu
 - 🏀 Fun fact: I enjoy playing basketball in my free time
